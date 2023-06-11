@@ -1,3 +1,10 @@
+// First Script with Node
+
+// Topics - 
+// Script with Command Line
+// Make Folder and file
+// Write First Code and Run
+
 console.log("Hello World");
 var a = 20;
 var b = 30;

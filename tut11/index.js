@@ -1,4 +1,10 @@
-// Creating a Simple and Basic API
+// Make a simple API
+
+// Topics -
+// Make a server
+// create header and API body
+// Create an API with static data
+// Put data in another file
 
 const data = require("./data");
 const http = require("http");

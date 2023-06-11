@@ -1,3 +1,11 @@
+// All About Package.json
+
+// Topics -
+// What is package file
+// How to make it
+// Check the file in detail
+// Install external Package
+
 console.log("Package.json");
 
 // How to install various external pacakges using npm i <packg>

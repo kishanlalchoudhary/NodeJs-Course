@@ -1,5 +1,12 @@
 // CRUD with File System
-// Topics : Make file, Read file, Update file, Rename file, Delete file, Interview Question
+
+// Topics -
+// Make file
+// Read file
+// Update file
+// Rename file
+// Delete file
+// Interview Question
 
 const fs = require("fs");
 const path = require("path");

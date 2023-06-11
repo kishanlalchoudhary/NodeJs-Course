@@ -1,4 +1,11 @@
 // Nodemon - time saving module
+
+// Topics -
+// What is the Nodemon package?
+// How to install it?
+// How to use it?
+// Interview Questions
+
 // Nodemon is a tool that helps develop Node.js based applications by automatically restarting the node application when file changes in the directory are detected.
 // command in terminal to execute index.js - (nodemon .\index.js)
 

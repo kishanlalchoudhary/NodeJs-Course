@@ -1,5 +1,9 @@
-// Getting input from command line
+// Input from command line
 
+// Topics -
+// Set input from command line
+// Create file with input
+// Delete the file with input
 
 // node index.js 100 Kishanlal
 

@@ -1,4 +1,9 @@
-// Display file list from folder
+// Show file List
+
+// Topics -
+// Make files in a folder
+// Use path module
+// Get file names and print
 
 const fs = require("fs");
 const path = require("path");

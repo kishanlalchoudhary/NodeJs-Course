@@ -1,4 +1,9 @@
-// Javascript Fundamentals in Node
+// Fundamentals of Node js
+
+// Topics -
+// JavaScript Fundamentals for Node js.
+// Conditions, Loops and Array
+// The import functiona and variables from another file
 
 // const z = 10;
 // z = 20;
