@@ -1,3 +1,3 @@
-# NodeJs-Workspace
-This is a repository for the Node.js Notes and Code that I have done while following the Node.js course by Code Step By Step youtube channel.
+# NodeJs-Course
+This is a collection of the Node.js notes and code I've written while watching the Code Step By Step youtube channel's Node.js course.
 ### Course Link - <a href="https://youtube.com/playlist?list=PL8p2I9GklV456iofeMKReMTvWLr7Ki9At">Youtube</a>
